@@ -6,9 +6,6 @@
 - I double majored in mathematics and computer sciences with a specialization in complex systems
 - I was the owner of the online gallery Silk Screen Road (check my instagram for news in a few months 🤫) 
 - I still stencil from time to time
-- I'm currently learning more about:
-    - Neo4j | GraphQL
-    - TypeScript | React | Angular
 
 ## 🛠️ Languages and Tools
 
