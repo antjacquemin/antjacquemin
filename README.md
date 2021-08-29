@@ -4,7 +4,7 @@
 
 - I'm a developer | data scientist | mathematician | private teacher
 - I double majored in mathematics and computer sciences with a specialization in complex systems
-- I was the owner of the online gallery Silk Screen Road (check my instagram for news in a few months 🤫) 
+- I was the owner of the online gallery [Silk Screen Road](https://www.instagram.com/silkscreenroad)
 - I still stencil from time to time
 
 ## 🛠️ Languages and Tools
