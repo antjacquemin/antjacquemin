@@ -24,12 +24,3 @@
 ## Motto
 
 > Those who say it cannot be done should not interrupt those who are doing it
-
-## 💬 Let's talk
-
-<a href="https://www.linkedin.com/in/anthony-jacquemin/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Anthony Jacquemin's LinkedIn Profile" height="30" width="30">
-</a>
-<a href="https://www.instagram.com/silkscreenroad/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Silk Screen Road's Instagram Profile" height="30" width="30">
-</a>
